@@ -1,0 +1,13 @@
+{
+  "files": ["README.md"],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+  ],
+  "contributorsPerLine": 4,
+  "projectName": "dgc-portal",
+  "projectOwner": "Dijets-Inc",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

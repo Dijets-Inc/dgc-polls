@@ -1,0 +1,140 @@
+[
+  {
+    "id": "high-impact",
+    "shortname": "High Impact",
+    "longname": "High Impact",
+    "recommend_ui": true,
+    "description": "Polls that Dijets Governance Council has judged high-impact",
+    "related_link": "https://forum.dijets.io/",
+    "precedence": 1
+  },
+  {
+    "id": "technical",
+    "shortname": "Tech",
+    "longname": "Technical",
+    "recommend_ui": true,
+    "description": "Polls relating to technical changes to Dijets",
+    "precedence": 2
+  },
+  {
+    "id": "dips",
+    "shortname": "DIP",
+    "longname": "DIP",
+    "recommend_ui": true,
+    "description": "Polls related to Dijets Improvement Proposal Process defined in DIP0",
+    "related_link": "https://dips.dijets.io/dips/details/DIP0",
+    "precedence": 3
+  },
+  {
+    "id": "budget",
+    "shortname": "Budget",
+    "longname": "Budget",
+    "recommend_ui": true,
+    "description": "Budget proposals made by Dijets Governance Council",
+    "related_link": "https://forum.dijets.io/",
+    "precedence": 4
+  },
+  {
+    "id": "medium-impact",
+    "shortname": "Med Impact",
+    "longname": "Medium Impact",
+    "recommend_ui": true,
+    "description": "Polls that Dijets Governance Council has judged medium-impact",
+    "related_link": "https://forum.dijets.io/",
+    "precedence": 5
+  },
+  {
+    "id": "real-world-assets",
+    "shortname": "RWA",
+    "longname": "Real World Asset",
+    "recommend_ui": true,
+    "description": "Polls relating to Real World Assets in Dijetex, DMMs",
+    "precedence": 6
+  },
+  {
+    "id": "bridge",
+    "shortname": "Bridge",
+    "longname": "Multi-Chain Bridge",
+    "recommend_ui": true,
+    "description": "Polls relating to the bridging of DJTX and native assets to other chains",
+    "precedence": 7
+  },
+  {
+    "id": "oracle",
+    "shortname": "Oracle",
+    "longname": "Oracle",
+    "recommend_ui": true,
+    "description": "Polls concerning Dijets Money Markets Oracles",
+    "precedence": 8
+  },
+  {
+    "id": "low-impact",
+    "shortname": "Low Impact",
+    "longname": "Low Impact",
+    "recommend_ui": true,
+    "description": "Polls that Dijets Governance Council has judged low-impact",
+    "related_link": "https://forum.dijets.io",
+    "precedence": 9
+  },
+  {
+    "id": "dgc-members",
+    "shortname": "DGC Members",
+    "longname": "Dijets Governance Council",
+    "recommend_ui": true,
+    "description": "Polls relating to DGC Members",
+    "related_link": "https://dijets.io/council",
+    "precedence": 10
+  },
+  {
+    "id": "delegates",
+    "shortname": "Delegates",
+    "longname": "Delegates",
+    "recommend_ui": true,
+    "description": "Polls relating to DGC Recognised Delegates",
+    "related_link": "https://core-council.dijets.io",
+    "precedence": 11
+  },
+  {
+    "id": "subcommittees",
+    "shortname": "SUBS",
+    "longname": "DGC Sub Committees",
+    "recommend_ui": true,
+    "description": "Proposals made related to DGC Sub Committees",
+    "related_link": "https://forum.dijets.io/",
+    "precedence": 12
+  },
+  {
+    "id": "dsm",
+    "shortname": "DSM",
+    "longname": "Dijets Stability Module",
+    "recommend_ui": true,
+    "description": "Polls relating to changes or onboarding of Dijets Stability Modules",
+    "related_link": "https://dmms.dijets.io",
+    "precedence": 13
+  },
+  {
+    "id": "misc-funding",
+    "shortname": "Misc Fund",
+    "longname": "Misc Funding",
+    "recommend_ui": true,
+    "description": "Polls related to miscellaneous funding proposals",
+    "precedence": 14
+  },
+  {
+    "id": "misc-governance",
+    "shortname": "Misc Gov",
+    "longname": "Misc Governance",
+    "recommend_ui": true,
+    "description": "Polls related to Miscellaneous Governance",
+    "precedence": 15
+  },
+  {
+    "id": "ratification",
+    "shortname": "Ratification",
+    "longname": "Ratification Poll",
+    "recommend_ui": true,
+    "description": "Ratification Polls as defined in DIP1",
+    "related_link": "https://dips.dijets.io/dips/details/DIP1#dip1m2-polls",
+    "precedence": 16
+  }
+]

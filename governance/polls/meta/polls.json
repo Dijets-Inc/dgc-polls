@@ -1,0 +1,32 @@
+[
+  {
+    "pollId": 1500,
+    "title": "Template - [Executive Vote] Dijets Governance Params, HAL Core Unit - June 18, 2021",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1506,
+    "title": "DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1507,
+    "title": "Approval Poll for the Monthly Governance Cycle - May 24, 2023",
+    "type": "single-choice",
+    "tags": [
+      "dips",
+      "misc-governance"
+    ]
+  },
+  {
+    "pollId": 1504,
+    "title": "Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
+    "type": "single-choice",
+    "tags": [
+      "risk-parameter",
+      "misc-governance"
+    ]
+  }
+]
