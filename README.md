@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/dips-github-repo.png?raw=true">
+  <img src="resources/dgc-polls-repo.png?raw=true">
 </div>
 
 ----
