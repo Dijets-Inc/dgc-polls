@@ -1,6 +1,17 @@
 {
   "delegates": [
     {
+      "voteDelegateAddress": "0x074e8F8A596b8d7CB16E2D3848b1C63fa0C6B343",
+      "profile": {
+        "name": "Daniel Fitzhenry",
+        "description": "# Daniel Fitzhenry\n\n### Key Info\n\n**DGC Member Address:** 0x98d475340bb182a47d6ad754b5fa11782cea0895  \n**Delegate Contract Address:** 0x074e8F8A596b8d7CB16E2D3848b1C63fa0C6B343  \n**Forum:** @dfitz86  \n**Qowalts:** [daniel:dijets.org](https://redirect.dijets.io/#/#daniel:dijets.org)  \n**External Website:** https://dijets.io/council  \n\n### Brief Introduction\n\n\n### DGC Member Statement\n\n\n### Conflicts of Interest\n\nI confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.\n\n### DGC Member Declaration\n\nAs Dijets Council Member I will;\n\n - operate and vote on proposals that I believe will be in the best interest of Dijets and DJTX Holders.\n - professionally and unbiasedly review each proposal prior to the submission of my vote.\n - within reason - be accessible to the community to answer questions and discuss my voting rationale when required.\n\nI have read, understood and signed the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by the points entailed in it.\n",
+        "externalProfileURL": null
+      },
+      "image": "QmS69VqJzKC2DHVMvoH57Qq3nNNw7EuaQH3HFMnucDB8J2",
+      "metrics": {},
+      "cuMember": false
+    },
+    {
       "voteDelegateAddress": "0x8c6D755660d76B348dfD533764B69932A3E53230",
       "profile": {
         "name": "Joe Fitzgerald",
@@ -19,8 +30,8 @@
     {
       "voteDelegateAddress": "0x8e06ed730100524e87e74c71f4f2a1ab8409b569",
       "profile": {
-        "name": "Dijets Governance HAL",
-        "description": "# Dijets Governance HAL (LQs)\n\n### Key Info\n\n**DGC Member Address:** 0xB148121aF25a9D310dE010C3825135100567225F  \n**Delegate Contract Address:** 0x8e06ed730100524e87e74c71f4f2a1ab8409b569  \n**Forum:** @dijets-hal  \n**Qowalts:** [HAL](https://redirect.dijets.io/#/#dijets-support:dijets.org)  \n**Twitter:** @OfficialDijets  \n**Website:** https://dijets.io  \n\n### Brief Introduction\n\n\n### DGC Member Statement\n\n\n### Conflicts of Interest\n\nI confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.\n\n### DGC Member Declaration\n\nAs Dijets Council Member I will;\n\n - operate and vote on proposals that I believe will be in the best interest of Dijets and DJTX Holders.\n - professionally and unbiasedly review each proposal prior to the submission of my vote.\n - within reason - be accessible to the community to answer questions and discuss my voting rationale when required.\n\nI have read, understood and signed the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by the points entailed in it.\n",
+        "name": "Peter Robertson",
+        "description": "# Peter Robertson\n\n### Key Info\n\n**DGC Member Address:** 0xB148121aF25a9D310dE010C3825135100567225F  \n**Delegate Contract Address:** 0x8e06ed730100524e87e74c71f4f2a1ab8409b569  \n**Forum:** @dijets-hal  \n**Qowalts:** [HAL](https://redirect.dijets.io/#/#dijets-support:dijets.org)  \n**Twitter:** @OfficialDijets  \n**Website:** https://dijets.io  \n\n### Brief Introduction\n\n\n### DGC Member Statement\n\n\n### Conflicts of Interest\n\nI confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.\n\n### DGC Member Declaration\n\nAs Dijets Council Member I will;\n\n - operate and vote on proposals that I believe will be in the best interest of Dijets and DJTX Holders.\n - professionally and unbiasedly review each proposal prior to the submission of my vote.\n - within reason - be accessible to the community to answer questions and discuss my voting rationale when required.\n\nI have read, understood and signed the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by the points entailed in it.\n",
         "externalProfileURL": null
       },
       "image": "QmYfCDThXZfaeM3kRjca4tzH69QZCQASGf2XMvRmD45qwT",
@@ -68,7 +79,7 @@
       "voteDelegateAddress": "0xf0ee900B6400fF20431cf488c07718F5e9aCb4Cb",
       "profile": {
         "name": "Alisha Ramazannezhad",
-        "description": "# Mrs. Alisha Ramazannezhad\n\n### Key Info\n\n**DGC Member Address:** 0x9972d1dfd45087f5e6d7a7152505ad56dbef9edc  \n**Delegate Contract Address:** 0xf0ee900B6400fF20431cf488c07718F5e9aCb4Cb  \n**Forum:** @DijetsAlisha  \n**Qowalts:** [arama](https://redirect.dijets.io/#/@arama:dijets.org)  \n**Github:** @DijetsAlisha  \n**Website:** https://dijets.io/council  \n\n### Brief Introduction\n\n\n### DGC Member Statement\n\n\n### Conflicts of Interest\n\nI confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.\n\n### DGC Member Declaration\n\nAs Dijets Council Member I will;\n\n - operate and vote on proposals that I believe will be in the best interest of Dijets and DJTX Holders.\n - professionally and unbiasedly review each proposal prior to the submission of my vote.\n - within reason - be accessible to the community to answer questions and discuss my voting rationale when required.\n\nI have read, understood and signed the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by the points entailed in it.\n",
+        "description": "# Alisha Ramazannezhad\n\n### Key Info\n\n**DGC Member Address:** 0x9972d1dfd45087f5e6d7a7152505ad56dbef9edc  \n**Delegate Contract Address:** 0xf0ee900B6400fF20431cf488c07718F5e9aCb4Cb  \n**Forum:** @DijetsAlisha  \n**Qowalts:** [arama](https://redirect.dijets.io/#/@arama:dijets.org)  \n**Github:** @DijetsAlisha  \n**Website:** https://dijets.io/council  \n\n### Brief Introduction\n\n\n### DGC Member Statement\n\n\n### Conflicts of Interest\n\nI confirm that I do not participate in any other organisation's voting process or DAO governance activities that would represent a potential conflict of interest.\n\n### DGC Member Declaration\n\nAs Dijets Council Member I will;\n\n - operate and vote on proposals that I believe will be in the best interest of Dijets and DJTX Holders.\n - professionally and unbiasedly review each proposal prior to the submission of my vote.\n - within reason - be accessible to the community to answer questions and discuss my voting rationale when required.\n\nI have read, understood and signed the [DGC Member's Manifesto](https://dijets.io/manifesto) and agree to carefully abide by the points entailed in it.\n",
         "externalProfileURL": null
       },
       "image": "Qmb3ZqBz6saJ3NRDp5tfhE7Aq5KLFSaj4TARMzygpestTu",
