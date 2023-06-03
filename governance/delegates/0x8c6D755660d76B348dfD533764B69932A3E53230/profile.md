@@ -1,7 +1,7 @@
 
 ---
-name: Joe Fitzgerald  
-external_profile_url:  
+name: Joe Fitzgerald
+external_profile_url:
 ---
 
 # Joe Fitzgerald
