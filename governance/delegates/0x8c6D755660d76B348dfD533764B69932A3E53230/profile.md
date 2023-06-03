@@ -8,8 +8,8 @@ external_profile_url:
 
 ### Key Info
 
-**DGC Member Address:** 0x78f52fbd99bf8293873dceb97bb3a8a4a0a28253
-**Delegate Contract Address:** 0x8c6D755660d76B348dfD533764B69932A3E53230
+**DGC Member Address:** 0x78f52fbd99bf8293873dceb97bb3a8a4a0a28253  
+**Delegate Contract Address:** 0x8c6D755660d76B348dfD533764B69932A3E53230  
 **Forum:** @joefitzgerald  
 **Qowalts:** [Joe](https://redirect.dijets.io/#/#joefitzgerald:dijets.org)  
 **Twitter:** @OfficialDijets  
