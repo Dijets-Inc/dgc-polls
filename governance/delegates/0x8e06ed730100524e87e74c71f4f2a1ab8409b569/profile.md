@@ -1,9 +1,9 @@
 ---
-name: Dijets Governance HAL
+name: Peter Robertson
 external_profile_url:
 ---
 
-# Dijets Governance HAL (LQs)
+# Peter Robertson
 
 ### Key Info
 
