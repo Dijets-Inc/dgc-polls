@@ -15,7 +15,9 @@ external_profile_url:
 **Website:** https://dijets.io/council  
 
 ### Brief Introduction
+I am an individual passionate about technology within the Healthcare System. Having built a 15 year career in both public and private sector healthcare organisations I am now operating my own Strategic Management Consultancy that supports healthcare and pharmaceutical companies deliver and implement a strategy that is both for the community as well as commercial. 
 
+In my personal life, I am happily married with a love for fitness, food and family/ friend time, I am excited to see the future of Dijets progress and be adopted into many different industries, communities and individual lives. 
 
 ### DGC Member Statement
 
