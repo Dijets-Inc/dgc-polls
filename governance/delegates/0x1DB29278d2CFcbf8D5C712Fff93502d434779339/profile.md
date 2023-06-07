@@ -15,7 +15,7 @@ external_profile_url:
 **Website:** https://dijets.io/council  
 
 ### Brief Introduction
-
+Make the changes or add a few lines etc..
 
 ### DGC Member Statement
 
