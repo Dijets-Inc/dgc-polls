@@ -1,14 +1,13 @@
-
 ---
-name: Rashpal Bassi
-external_profile_url:
+name: Rashpal Bassi  
+external_profile_url:  
 ---
 
 # Rashpal Bassi
 
 ### Key Info
 
-**DGC Member Address:** 0x9604da13ca244691cd7b506de9ae902d3100d369  
+**DGC Member Address:** 0x5f29eE3D1bE252468ea941B9076d9F1972a6c6D4  
 **Delegate Contract Address:** 0xa26D5c2ac3c5Fdd4A61a7D42115BE12Cf0c40664  
 **Forum:** @rbassi  
 **Qowalts:** [rbassi:dijets.org](https://redirect.dijets.io/#/#rbassi:dijets.org)  
