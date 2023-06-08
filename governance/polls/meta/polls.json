@@ -1,19 +1,13 @@
 [
   {
-    "pollId": 1500,
-    "title": "Template - [Executive Vote] Dijets Governance Params, HAL Core Unit - June 18, 2021",
-    "type": "single-choice",
-    "tags": []
-  },
-  {
     "pollId": 1506,
     "title": "DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
     "type": "single-choice",
     "tags": []
   },
   {
-    "pollId": 1507,
-    "title": "Approval Poll for the Monthly Governance Cycle - May 24, 2023",
+    "pollId": 1505,
+    "title": "Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
     "type": "single-choice",
     "tags": [
       "dips",
@@ -21,12 +15,36 @@
     ]
   },
   {
-    "pollId": 1504,
-    "title": "Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
+    "pollId": 1507,
+    "title": "Approval Poll for the Monthly Governance Cycle - May 31, 2023",
     "type": "single-choice",
     "tags": [
-      "risk-parameter",
+      "dips",
       "misc-governance"
     ]
+  },
+  {
+    "pollId": 1508,
+    "title": "DIP2 defines the process for the amendment and removal of an accepted DIP - May 28, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1509,
+    "title": "DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - May 31, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1511,
+    "title": "DIP3 submits an approval poll for adding domains and indices to all DIPs - May 31, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1512,
+    "title": "Approval Poll for the Monthly Governance Cycle - May 31, 2023",
+    "type": "single-choice",
+    "tags": []
   }
 ]
