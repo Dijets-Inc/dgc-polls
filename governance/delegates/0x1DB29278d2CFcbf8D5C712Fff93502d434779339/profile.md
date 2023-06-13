@@ -20,7 +20,15 @@ I am an individual passionate about technology within the Healthcare System. Hav
 In my personal life, I am happily married with a love for fitness, food and family/ friend time, I am excited to see the future of Dijets progress and be adopted into many different industries, communities and individual lives. 
 
 ### DGC Member Statement
+My governance approach and the improvement proposals I submit are more than likely to be in favour of:
 
+(in descending order of preference)
+
+(Community)
+(Simplicity)
+(Vision)
+(Pragmatism)
+(Revenue)
 
 ### Conflicts of Interest
 
