@@ -6,8 +6,8 @@
     "tags": []
   },
   {
-    "pollId": 1505,
-    "title": "Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
+    "pollId": 1507,
+    "title": "Approval Poll for the Monthly Governance Cycle - May 31, 2023",
     "type": "single-choice",
     "tags": [
       "dips",
@@ -15,11 +15,11 @@
     ]
   },
   {
-    "pollId": 1507,
-    "title": "Approval Poll for the Monthly Governance Cycle - May 31, 2023",
+    "pollId": 1504,
+    "title": "Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - May 24, 2023",
     "type": "single-choice",
     "tags": [
-      "dips",
+      "risk-parameter",
       "misc-governance"
     ]
   },
@@ -44,6 +44,18 @@
   {
     "pollId": 1512,
     "title": "Approval Poll for the Monthly Governance Cycle - May 31, 2023",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1513,
+    "title": "(VOID HAL)Sub-Proposal for Onboarding Member Alisha Ramazannezhad as DIP Editor - Jun 06, 2023[VOID HAL]",
+    "type": "single-choice",
+    "tags": []
+  },
+  {
+    "pollId": 1514,
+    "title": "DIP0m11-SP1 onboards Member Alisha Ramazannezhad as DIP Editor - Jun 06, 2023",
     "type": "single-choice",
     "tags": []
   }
